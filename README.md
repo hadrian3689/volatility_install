@@ -2,7 +2,7 @@
 The original post: https://seanthegeek.net/1172/how-to-install-volatility-2-and-volatility-3-on-debian-ubuntu-or-kali-linux/amp/
 
 ## Getting Started
-Just **run** it as your current *user* or as *root*
+Just **run** it as your current *user*
 ```
 bash install.sh
 ```
